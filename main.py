@@ -1,1 +1,3 @@
-print("Sup " + input("What is your name? "))
+name = input("What is your name?")
+length = len(name)
+print(length)
